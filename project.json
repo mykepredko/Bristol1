@@ -1,0 +1,10 @@
+{
+    "name": "Bristol1",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Bristol1.xml",
+    "author": "mykepredko",
+    "minimum_firmware_version": 42
+}
